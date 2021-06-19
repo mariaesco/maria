@@ -1,0 +1,61 @@
+.inicio{
+    background-color: #c362a3;
+    height: 115px;
+    text-align: center;
+}
+nav a {
+	color: black;
+	margin-right: 20px;
+font-size: 20px;
+margin-top: 80px;
+}
+
+.avatar{
+    margin-top: 150px;
+    width: 250px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+   
+    
+}
+.vida{
+    margin-top: 10px;
+    background-color: #dd84f8;
+    text-align: center;
+    height: 400px;
+    display: flex;
+}
+.txt{
+    margin:0 20px;
+    background-color: rgb(218, 218, 214);
+    height: 100%;
+    width: 75%;
+}
+.Elementos{
+    margin-top: 10px;
+    background-color: #f1b1b1;
+    text-align: center;
+    height: 200px;
+    width: 1328px;
+}
+.red{
+    background-color: burlywood;
+    margin-top: 10px;
+    display: flex;
+}
+.f{
+   margin-left: 10px;
+    background-color: rgb(176, 161, 241);
+    height: 50%;
+    width: 50%;
+    text-align: center;
+
+}
+
+.i{
+    margin: 0 10px;
+    background-color: rgb(176, 161, 241);
+    height: 50%;
+    width: 50%;
+    text-align: center;
+}
